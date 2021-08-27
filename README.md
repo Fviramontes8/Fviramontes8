@@ -7,9 +7,9 @@
 ![Frankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fviramontes8&show_icons=true&theme=dark&hide=issues)
 
 ## Operating Systems, Tools, and Languages
-[![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=brightgreen)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Linux-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=brightgreen)](https://www.kali.org/)
-[![](https://img.shields.io/badge/Linux-PopOS-informational?style=flat&logo=popos&logoColor=white&color=brightgreen)](https://pop.system76.com/)
+[![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=brightgreen)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=brightgreen)](https://www.kali.org/)
+[![](https://img.shields.io/badge/OS-PopOS-informational?style=flat&logo=popos&logoColor=white&color=brightgreen)](https://pop.system76.com/)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
