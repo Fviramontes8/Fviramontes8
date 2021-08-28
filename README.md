@@ -36,13 +36,17 @@
 ### Data collection with raspberry pis
 ![Created Badge](https://badges.pufler.dev/created/Fviramontes8/PiPcapCollector)
 ![Updated Badge](https://badges.pufler.dev/updated/Fviramontes8/PiPcapCollector)
+
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+[![](https://img.shields.io/badge/-Libtins-informational?style=flat&logoColor=white&color=blueviolet)](https://github.com/mfontanini/libtins)
 
 [![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=PiPcapCollector&theme=dark)](https://github.com/Fviramotnes8/PiPcapCollector)
 
 ### Data processing with ML regression algorithms
 ![Created Badge](https://badges.pufler.dev/created/Fviramontes8/wifi_capture_prediction)
 ![Updated Badge](https://badges.pufler.dev/updated/Fviramontes8/wifi_capture_prediction)
+
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-Scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=F7931E)
 ![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
