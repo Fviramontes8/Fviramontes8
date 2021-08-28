@@ -53,3 +53,5 @@
 ![](https://img.shields.io/badge/-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 
 [![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=wifi_capture_prediction&theme=dark)](https://github.com/Fviramontes8/wifi_capture_prediction)
+
+Feel free to use anything from this file to help you create/edit your own profile!
