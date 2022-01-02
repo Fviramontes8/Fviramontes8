@@ -32,7 +32,11 @@
 <!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
 ![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=dark&langs_count=5)
 ## Research Code
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
 
+[![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=ISONewEnglandGP&theme=dark)](https://github.com/Fviramontes8/ISONewEnglandGP)
+<!---
 ### Data collection with raspberry pis
 ![Created Badge](https://badges.pufler.dev/created/Fviramontes8/PiPcapCollector)
 ![Updated Badge](https://badges.pufler.dev/updated/Fviramontes8/PiPcapCollector)
@@ -41,7 +45,7 @@
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 [![](https://img.shields.io/badge/-Libtins-informational?style=flat&logoColor=white&color=blueviolet)](https://github.com/mfontanini/libtins)
 
-[![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=PiPcapCollector&theme=dark)](https://github.com/Fviramotnes8/PiPcapCollector)
+[![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=PiPcapCollector&theme=dark)](https://github.com/Fviramontes8/PiPcapCollector)
 
 ### Data processing with ML regression algorithms
 ![Created Badge](https://badges.pufler.dev/created/Fviramontes8/wifi_capture_prediction)
@@ -53,5 +57,6 @@
 ![](https://img.shields.io/badge/-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 
 [![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=wifi_capture_prediction&theme=dark)](https://github.com/Fviramontes8/wifi_capture_prediction)
+--->
 
 Feel free to use anything from this file to help you create/edit your own profile!
