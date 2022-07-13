@@ -1,7 +1,5 @@
 # Francisco "Frankie" Viramontes
 
-[![Years Badge](https://badges.pufler.dev/years/Fviramontes8)](https://github.com/Fviramontes8)
-[![Repos Badge](https://badges.pufler.dev/repos/Fviramontes8)](https://github.com/Fviramontes8?tab=repositories)
 [![](https://komarev.com/ghpvc/?username=Fviramotnes8&color=brightgreen)](https://github.com/Fviramontes8)
 
 ![Frankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fviramontes8&show_icons=true&theme=dark&hide=issues)
