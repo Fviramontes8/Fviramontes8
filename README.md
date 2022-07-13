@@ -4,23 +4,29 @@
 
 ![Frankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fviramontes8&show_icons=true&theme=dark&hide=issues)
 
-## Operating Systems, Tools, and Languages
+## Operating Systems
 [![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=557C94)](https://www.kali.org/)
 [![](https://img.shields.io/badge/-PopOS-informational?style=flat&logo=popos&logoColor=white&color=48B9C7)](https://pop.system76.com/)
+
+## Tools
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
+
 ![](https://img.shields.io/badge/-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 
 
 ![](https://img.shields.io/badge/-AWSSageMaker-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/-AWSS3-informational?style=flat&logo=amazons3&logoColor=white&color=569A31)
 ![](https://img.shields.io/badge/-AWSECR-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
 
+## Favorite Languages
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
