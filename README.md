@@ -27,14 +27,18 @@
 [![](https://img.shields.io/badge/-AWSECR-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)](https://aws.amazon.com/ecr/)
 
 ## Favorite Languages
-[![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=FFFFFF)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=FFFFFF)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![](https://img.shields.io/badge/-Make-informational?style=flat&logo=gnu&logoColor=white&color=A42E2B)](https://www.gnu.org/software/make/)
 
-
 <!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
 ![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=dark&langs_count=5)
+
+## Learning
+[![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=black&color=white)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=cmake&logoColor=white&color=064F8C)](https://cmake.org/)
+
 ## Research Code
 [![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=FFFFFF)](https://www.python.org/)
 [![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=262626)](https://pytorch.org/)
