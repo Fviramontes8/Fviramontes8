@@ -36,8 +36,8 @@
 <!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
 ![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=dark&langs_count=5)
 ## Research Code
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+[![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
+[![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=262626)](https://pytorch.org/)
 
 [![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=ISONewEnglandGP&theme=dark)](https://github.com/Fviramontes8/ISONewEnglandGP)
 <!---
