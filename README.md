@@ -10,27 +10,27 @@
 [![](https://img.shields.io/badge/-PopOS-informational?style=flat&logo=popos&logoColor=white&color=48B9C7)](https://pop.system76.com/)
 
 ## Tools
-![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
-![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+[![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)](https://www.vim.org/)
+[![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
 
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
+[![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)](https://git-scm.com)
+[![](https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com)
+[![](https://img.shields.io/badge/-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)](https://about.gitlab.com)
 
-![](https://img.shields.io/badge/-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
-![](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+[![](https://img.shields.io/badge/-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
 
-![](https://img.shields.io/badge/-AWSSageMaker-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
-![](https://img.shields.io/badge/-AWSS3-informational?style=flat&logo=amazons3&logoColor=white&color=569A31)
-![](https://img.shields.io/badge/-AWSECR-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
+[![](https://img.shields.io/badge/-AWSSageMaker-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)](https://aws.amazon.com/sagemaker/)
+[![](https://img.shields.io/badge/-AWSS3-informational?style=flat&logo=amazons3&logoColor=white&color=569A31)](https://aws.amazon.com/s3/)
+[![](https://img.shields.io/badge/-AWSECR-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)](https://aws.amazon.com/ecr/)
 
 ## Favorite Languages
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/-Make-informational?style=flat&logo=gnu&logoColor=white&color=A42E2B)
+[![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![](https://img.shields.io/badge/-Make-informational?style=flat&logo=gnu&logoColor=white&color=A42E2B)](https://www.gnu.org/software/make/)
 
 
 <!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
