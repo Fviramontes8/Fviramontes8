@@ -40,10 +40,12 @@
 [![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=cmake&logoColor=white&color=064F8C)](https://cmake.org/)
 
 ## Research Code
+![](https://img.shields.io/badge/-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 [![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=FFFFFF)](https://www.python.org/)
 [![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=262626)](https://pytorch.org/)
+![](https://img.shields.io/badge/-Scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=F7931E)
 
-[![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=ISONewEnglandGP&theme=dark)](https://github.com/Fviramontes8/ISONewEnglandGP)
+[![Research Card](https://github-readme-stats.vercel.app/api/pin/?username=Fviramontes8&repo=lamp&theme=dark)](https://github.com/Fviramontes8/lamp)
 <!---
 ### Data collection with raspberry pis
 ![Created Badge](https://badges.pufler.dev/created/Fviramontes8/PiPcapCollector)
