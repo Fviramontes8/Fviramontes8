@@ -2,7 +2,9 @@
 
 [![](https://komarev.com/ghpvc/?username=Fviramotnes8&color=brightgreen)](https://github.com/Fviramontes8)
 
+<!---
 ![Frankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fviramontes8&show_icons=true&theme=dark&hide=issues)
+--->
 
 ## Operating Systems
 [![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/)
@@ -33,7 +35,8 @@
 [![](https://img.shields.io/badge/-Make-informational?style=flat&logo=gnu&logoColor=white&color=A42E2B)](https://www.gnu.org/software/make/)
 
 <!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
-![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=dark&langs_count=5)
+<!---![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=dark&langs_count=5)--->
+![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=gruvbox&langs_count=6)
 
 ## Learning
 [![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=black&color=white)](https://www.rust-lang.org/)
